@@ -1,5 +1,5 @@
 // ./webpack.config.js
-
+const webpack = require("webpack");
 const path = require("path");
 const HtmlWebPackPlugin = require("html-webpack-plugin");
 
